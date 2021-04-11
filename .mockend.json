@@ -1,9 +1,9 @@
 [
   {
-    "title": 1,
-    "views": 3",
-    "published": true,
-    "createdAt": false
+    "road": 1,
+    "vehicles": 3",
+    "fog": true,
+    "water loggage": false
   }
 ]
 
