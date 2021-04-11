@@ -1,9 +1,9 @@
-[
-    {
-    "road": 1,
-    "vehicles": 48,
-    "fog": true,
-    "waterloggage": true
-    }
-]
-  
+{
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
+  }
+}
+
