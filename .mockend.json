@@ -1,6 +1,9 @@
-{
-    "road": "int",
-    "vehicles": "int",
-    "fog": "boolean",
-    "waterloggage": "boolean"
-}
+[
+    {
+    "road": 1,
+    "vehicles": 48,
+    "fog": true,
+    "waterloggage": true
+    }
+]
+  
