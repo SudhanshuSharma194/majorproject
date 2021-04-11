@@ -4,6 +4,18 @@
     "vehicles": 3",
     "fog": true,
     "water loggage": false
+  },
+  {
+    "road": 2,
+    "vehicles": 3",
+    "fog": true,
+    "water loggage": false
+  },
+  {
+    "road": 3,
+    "vehicles": 3",
+    "fog": true,
+    "water loggage": false
   }
 ]
 
