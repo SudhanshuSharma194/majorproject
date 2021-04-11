@@ -1,9 +1,9 @@
-{
-  "Post": {
+[
+  {
     "title": 1,
     "views": 3",
     "published": true,
     "createdAt": false
   }
-}
+]
 
