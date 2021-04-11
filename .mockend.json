@@ -1,0 +1,6 @@
+{
+    "road": "int",
+    "vehicles": "int",
+    "fog": "boolean",
+    "waterloggage": "boolean"
+}
